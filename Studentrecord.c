@@ -16,7 +16,7 @@ int main()
      printf("Enter the Roll Number :");
      scanf("%d",&s1.roll);
       printf("Enter the Name :");
-     scanf("%s",&s1.name);
+     scanf("%sl",&s1.name);
      printf("Enter the Grade :");
      scanf("%c",&s1.grade);
      printf("Enetr the subject :");
